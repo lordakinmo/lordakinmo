@@ -20,7 +20,7 @@ I've also managed identity and access control using platforms like Microsoft Ent
 - **Build Tools:** Maven
 - **Virtualization & Hypervisors:** VMware, Proxmox
 - **Scripting:** Bash, Python
-- **OS:** Linux (Ubuntu, CentOS)
+- **OS:** Debian-based Linux (Debian, Ubuntu), CentOS
 
 ---
 

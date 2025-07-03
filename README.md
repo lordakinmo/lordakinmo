@@ -42,7 +42,7 @@ I've also managed identity and access control using platforms like Microsoft Ent
 - ✅ AWS Certified Solutions Architect – Associate *(2023)*
 - 📚 Currently pursuing: Kubernetes Administrator (CKA)
 
----
+
 <!--
 ## 📈 GitHub Stats
 

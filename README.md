@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Stephen!
 
-🚀 **Cloud Engineer | DevOps Enthusiast | Infrastructure as Code Advocate**
+🚀 **System and Cloud Engineer | DevOps Enthusiast | Infrastructure as Code Advocate**
 
 I'm passionate about building secure, scalable, and automated cloud infrastructure. I have hands-on experience with tools like Terraform, Docker, Kubernetes, and AWS, as well as implementing secure communications using SSL/TLS certificates, Java Keytool, and keystores. I also bring a solid background in web development, working extensively with web servers such as Tomcat and Apache2.
 

@@ -28,10 +28,10 @@ I've also managed identity and access control using platforms like Microsoft Ent
 
 ### 🚧 [Infrastructure as Code: AWS with Terraform](https://github.com/lordakinmo/aws-terraform-infra)
 > Automated VPC, EC2, and S3 provisioning using Terraform modules with remote state backend and workspaces.
-<!--
-### 🔁 [CI/CD Pipeline with GitHub Actions](https://github.com/lordakinmo/devops-ci-cd-demo)
-> Built a CI/CD pipeline to lint, build Docker images, and deploy to AWS ECS via GitHub Actions.
 
+### 🔁 [CI/CD Pipeline with GitHub Actions](https://github.com/lordakinmo/jenkins-maven-tomcat-cicd-ec2)
+> Built a CI/CD pipeline with Jenkins, Maven, and Tomcat. Deployed on an AWS EC2 instances.
+<!--
 ### ☸️ [Kubernetes Cluster Setup with EKS](https://github.com/lordakinmo/eks-k8s-cluster)
 > Deployed a multi-node Kubernetes cluster on AWS EKS with Helm charts and monitoring using Prometheus + Grafana.
 -->
